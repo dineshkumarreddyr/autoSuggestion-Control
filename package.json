@@ -1,0 +1,31 @@
+{
+  "name": "autosuggestion",
+  "version": "1.0.0",
+  "description": "Autosuggesion box with accessiblity in angular JS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshkumarreddyr/autoSuggestion-Control.git"
+  },
+  "keywords": [
+    "Autosuggestion",
+    "Autocomplete",
+    "Dropdown",
+    "Accessible",
+    "Accessibility"
+  ],
+  "author": "Dinesh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dineshkumarreddyr/autoSuggestion-Control/issues"
+  },
+  "homepage": "https://github.com/dineshkumarreddyr/autoSuggestion-Control#readme"
+}

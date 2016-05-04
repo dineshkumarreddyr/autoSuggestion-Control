@@ -1,0 +1,1 @@
+﻿var autosuggestion = angular.module('autosuggestion', []);

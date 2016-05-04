@@ -1,0 +1,4 @@
+﻿<input type="text" data-ng-model="vm.inputText" tabindex="0" class="suggestion-input" />
+<ul class="suggestion-items" data-ng-show="vm.showSuggestionBox">
+    <li tabindex="-1" data-ng-click="vm.itemSelected(item,$index)" data-ng-class="" data-ng-repeat="item in vm.data | filter:vm.inputText">{{item.name}}</li>
+</ul>

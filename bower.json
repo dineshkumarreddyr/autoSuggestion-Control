@@ -1,0 +1,32 @@
+{
+  "name": "autosuggestion",
+  "description": "Autosuggesion box with accessiblity in angular JS",
+  "main": "index.js",
+  "authors": [
+    "Dinesh Kumar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Autosuggestion",
+    "Autocomplete",
+    "Dropdown",
+    "Accessible",
+    "Accessibility"
+  ],
+  "homepage": "https://github.com/dineshkumarreddyr/autoSuggestion-Control",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "1.5.5"
+  }
+}

@@ -1,0 +1,21 @@
+﻿body {
+    font-family: 'Segoe UI','Trebuchet MS';
+}
+
+ul.suggestion-items {
+    margin: 0;
+    padding: 0;
+    width: 220px;
+    max-height: 150px;
+    overflow: auto;
+}
+
+    ul.suggestion-items li {
+        list-style: none;
+        padding: 5px 0;
+    }
+
+        ul.suggestion-items li.active {
+            background: #2196F3;
+            color: #fff;
+        }
